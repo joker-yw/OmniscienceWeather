@@ -114,7 +114,7 @@ public class WeatherActivity extends AppCompatActivity {
             }else{
                 loadBingPic();
             }
-        
+
 
         navButton.setOnClickListener(new View.OnClickListener(){
 
